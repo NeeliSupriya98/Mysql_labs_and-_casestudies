@@ -1,0 +1,8 @@
+﻿Subscription_Id,Subscription_Code,Subscription_Name,Subscription_Display_Name,Subscription_Description,Product_Code,Subscription_Cost,No_Of_User,Frequency,Subscription_Is_Active
+1,ERP_FREE,Free,Free,Basic plan with limited features available at no cost,ROS_ERP,₹ 0.00,120,One-time,TRUE
+2,ERP_FREEM,Fremium,Fremium,Combination of free and premium features with optional upgrades,ROS_ERP,₹ 699.00,102,Monthly,TRUE
+3,ERP_PREM,Premium,Premium,Enhanced plan with advanced features and premium benefits.,ROS_ERP,"₹ 1,499.00",101,Monthly,TRUE
+4,ERP_ENT,Enterprise,Enterprise,Tailored subscription for large-scale businesses with extensive functionalities.,ROS_ERP,"₹ 7,999.00",102,Annual,TRUE
+5,AI_SILV,Silver,Silver,Mid-tier subscription with additional features and benefits.,ROS_AI,"₹ 3,999.00",108,Quarterly,TRUE
+6,AI_GOLD,Gold,Gold,High-level subscription offering exclusive features and premium advantages.,ROS_AI,"₹ 7,999.00",116,Annual,TRUE
+7,AI_PLAT,Platinum,Platinum,Top-tier subscription with the most comprehensive features and benefits,ROS_AI,"₹ 15,999.00",101,Annual,TRUE

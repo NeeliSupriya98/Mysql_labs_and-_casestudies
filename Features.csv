@@ -1,0 +1,25 @@
+﻿Feature_Id,Feature_Code,Feature_Name,Feature_Display_Name,Funtional_Module_Code,Feature_Is_Active
+1,VAC,View All Clients,All Clients,EMP,TRUE
+2,SRC,Search Client,Search Client,SHF,TRUE
+3,INS,Insert Client,Insert,LEA,TRUE
+4,MDC,Modify Client,Modify,REC,TRUE
+5,VCL,View Client,View,REC,TRUE
+6,DCL,Deactivate Client,Deactivate,RES,TRUE
+7,ACL,Activate Client,Activate Client,EMP,TRUE
+8,VCS,View Client Summary,View Client Summary,DEP,TRUE
+9,VCR,View Client Restaurants,Client Restaurants,CSH,TRUE
+10,SRS,Search Restaurants,Search,CLI,TRUE
+11,ANR,Add New Restaurant,Add New,REP,TRUE
+12,EDR,Edit Restaurant,Edit,PRL,TRUE
+13,VRS,View Restaurant,View,USR,TRUE
+14,CFR,Configure Restaurant,Configure,EMP,TRUE
+15,ACR,Activate Restaurant,Activate,RES,TRUE
+16,DCR,Deactivate Restaurant,Deactivate,CLI,TRUE
+17,VAU,View All Users,View,DEP,TRUE
+18,SRU,Search User,Search,SHF,TRUE
+19,FUR,Filter Users By Restaurant,Filter Users,LEA,TRUE
+20,ANU,Add New User,Add New,REC,TRUE
+21,EUS,Edit User,Edit,CSH,TRUE
+22,CUS,Configure User ,Configure,REP,TRUE
+23,DUS,Deactivate User,Deactivate ,USR,TRUE
+24,AUS,Activate User,Activate,PRL,TRUE

@@ -1,0 +1,4 @@
+﻿Bussiness_Module_Id,Bussiness_Module_Code,Bussiness_Module_Name,Display_Name,Product_Code,Bussiness_Is_Active
+1,ADM,Administration,Administration,ROS_ERP,TRUE
+2,CUP,Cash Up,Cash Up,ROS_ERP,TRUE
+3,HRM,Human Resource,Human Resource,ROS_AI,TRUE

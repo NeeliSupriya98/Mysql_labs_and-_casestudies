@@ -1,0 +1,12 @@
+﻿Functional_Module_Id,Functional_Module_Code,Functional_Module_Name,Functiona_Module_Display_Name,Bussiness_Module_Code,Functional_Module_Is_Active
+1,CLI,Clients,Clients,ADM,TRUE
+2,RES,Restaurants,Restaurants,ADM,TRUE
+3,USR,Users,Users,ADM,TRUE
+4,CSH,Cash Management,Cash Management,CUP,TRUE
+5,DEP,Deposits,Deposits,CUP,TRUE
+6,REC,Reconciliation,Reconciliation,CUP,TRUE
+7,REP,Reports,Reports,CUP,TRUE
+8,EMP,Employee,Employee,HRM,TRUE
+9,PRL,Payroll,Payroll,HRM,TRUE
+10,SHF,Shifts,Shifts,HRM,TRUE
+11,LEA,Leaves,Leaves,HRM,TRUE
